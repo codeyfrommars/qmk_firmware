@@ -32,6 +32,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 15
 
+#define RGB_DI_PIN D5
+#define RGBLED_NUM 1
+
+#define RGBLIGHT_HUE_STEP 10
+#define RGBLIGHT_SAT_STEP 17
+#define RGBLIGHT_VAL_STEP 17
+#define RGBLIGHT_LIMIT_VAL 255
+#define RGBLIGHT_SLEEP
+
 /*
  * Keyboard Matrix Assignments
  *
